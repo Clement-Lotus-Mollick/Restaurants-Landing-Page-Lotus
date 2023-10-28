@@ -1,0 +1,35 @@
+/* google font  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-max-w{
+    max-width: 1450px;
+    margin: 0 auto;
+}
+.img-positon{
+    position: relative;
+    /* right: 6%; */
+}
+.absout{
+    position: absolute;
+}
+/* nav end  */
+
+/* hero start  */
+/* .hero-max-w{
+    max-width: 1450px;
+    margin: 0 auto;
+} */
+/* hero end  */
+
+
+/* card start one  */
+.card-max-w{
+    max-width: 1450px;
+    margin: 0 auto;
+}
+/* card end one  */
+
