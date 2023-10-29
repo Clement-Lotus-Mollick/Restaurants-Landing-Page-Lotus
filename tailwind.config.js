@@ -12,3 +12,5 @@ module.exports = {
       themes: ["light", "dark", "cupcake"],
     },
   }
+
+  // project done 
